@@ -338,3 +338,40 @@ If multiple elif conditions are true, then only the first elif block which is Tr
 
 <img width="510" height="444" alt="image" src="https://github.com/user-attachments/assets/94fdf575-a85e-4e9a-ba80-898e647a5d51" />
 
+## Loops
+
+So far we have seen that Python executes code in a sequence and each block of code is executed once.
+Loops allow us to execute a block of code several times.
+
+### While Loop
+Allows us to execute a block of code several times as long as the condition is True.
+
+<img width="922" height="394" alt="image" src="https://github.com/user-attachments/assets/d2b2109f-8aba-482d-a430-aef9bc2c8caa" />
+
+### Nested Condition in Else Block
+We can also write nested conditions in Else Statement.
+#### In the below example Block 2 is a nested conditional block.
+
+<img width="511" height="451" alt="image" src="https://github.com/user-attachments/assets/4f7e361a-fba7-4ddf-b301-177adab0f5b6" />
+
+### Elif Statement
+Use the elif statement to have multiple conditional statements between if and else.
+The elif statement is optional.
+
+<img width="513" height="439" alt="image" src="https://github.com/user-attachments/assets/4eeabf3b-8b90-4af6-becd-51de5aac8bab" />
+
+### Multiple Elif Statements
+We can add any number of elif statements after if conditional block.
+
+<img width="510" height="444" alt="image" src="https://github.com/user-attachments/assets/2706a4bf-2302-4823-9892-d8cc37c3e9a0" />
+
+### Execution of Elif Statement
+Python will execute the elif block whose expression evaluates to true.
+If multiple elif conditions are true, then only the first elif block which is True will be executed.
+
+<img width="510" height="444" alt="image" src="https://github.com/user-attachments/assets/fd6b5d16-e3f1-4df2-a83d-bbbee4d53dac" />
+
+### Optional Else Statement
+Else statement is not compulsory after if - elif statements.
+
+<img width="491" height="357" alt="image" src="https://github.com/user-attachments/assets/91080ec7-a846-4af8-9802-8e71b35e49f5" />
