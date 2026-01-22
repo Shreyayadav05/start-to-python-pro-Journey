@@ -375,3 +375,14 @@ If multiple elif conditions are true, then only the first elif block which is Tr
 Else statement is not compulsory after if - elif statements.
 
 <img width="491" height="357" alt="image" src="https://github.com/user-attachments/assets/91080ec7-a846-4af8-9802-8e71b35e49f5" />
+
+## Loops
+
+So far we have seen that Python executes code in a sequence and each block of code is executed once.
+Loops allow us to execute a block of code several times.
+
+### While Loop
+Allows us to execute a block of code several times as long as the condition is True. 
+
+<img width="903" height="421" alt="image" src="https://github.com/user-attachments/assets/8d406818-4ca7-4756-8e73-e53f04711a3b" />
+
